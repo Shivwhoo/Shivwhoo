@@ -1,22 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web development projects, focusing on React, Node.js, and MongoDB, while strengthening my foundation in Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on<br>Meaningful web applications, open-source projects, and early-stage product ideas where learning and impact go hand in hand.<br><br>🤝 I’m looking for help with<br>Backend architecture, system design fundamentals, and best practices for writing scalable, maintainable code.<br><br>🌱 I’m currently learning<br>Backend development, RESTful APIs, authentication, database management systems, and advanced JavaScript concepts.<br><br>💬 Ask me about<br>C++, DSA, web development, Git/GitHub, or balancing academics with practical skill building.<br><br>⚡ Fun fact<br>I genuinely enjoy staying consistent — whether it’s coding, learning something new, or improving one small thing every day.
+# Hi, I’m Shivam Kishore 👋
 
+I’m a **Computer Science undergraduate** focused on becoming a **strong, well-rounded software engineer** with solid fundamentals in **Data Structures, Algorithms, and backend-focused full-stack development**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kishore-103556329/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkishore009@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivwhoo/)
-[![Phone](https://img.shields.io/badge/Phone-%2300C853.svg?logo=whatsapp&logoColor=white)](tel:+919334947294)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivwhoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shivwhoo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I believe in writing **clean, maintainable code**, learning by building real projects, and improving consistently every day.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivwhoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Career Objective
+
+I am seeking **Software Development Internships / Entry-Level Roles** where I can:
+
+- Work on **real-world engineering problems**
+- Build **scalable and reliable systems**
+- Strengthen my understanding of **system design and backend architecture**
+- Learn from experienced engineers while delivering meaningful impact
+
+My long-term goal is to grow into a **high-impact software engineer** capable of owning systems end-to-end.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C, C++
+- JavaScript
+- Python
+
+### Web Development
+**Frontend**
+- React
+- React Router
+- Tailwind CSS
+- Vite
+
+**Backend**
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication (JWT)
+- MongoDB
+
+### Tools & Platforms
+- Git & GitHub
+- Vercel, Netlify
+- NPM
+- Notion
+
+---
+
+## 📌 What I’m Currently Working On
+
+- Full-stack web applications using **React, Node.js, MongoDB**
+- Strengthening **DSA & problem-solving skills** using C++
+- Learning **backend architecture and system design fundamentals**
+- Writing cleaner, more scalable, production-ready code
+
+---
+
+## 🤝 Open To Opportunities
+
+- Software Development Internships
+- Entry-Level Software Engineer Roles
+- Open-source contributions
+- Collaborative learning and engineering projects
+
+---
+
+## 📈 GitHub Contributions
+
+> Consistency matters more than intensity.
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivwhoo&theme=github-compact)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivwhoo&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/shivam-kishore-103556329/
+- **Email:** shivamkishore009@gmail.com
+- **LeetCode:** https://leetcode.com/u/Shivwhoo/
+
+---
+
+⭐ *Always open to learning, collaboration, and growth.*
