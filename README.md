@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shivwhoo/Shivwhoo/main/84c4b9d4-7b21-4f1e-95c7-e449a3eb5e77.png" alt="Shivam Kishore Banner" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shivam%20Kishore&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 ---
 
