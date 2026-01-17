@@ -15,6 +15,15 @@ To work as a **Software Development Intern / Junior Software Engineer** where I 
 
 ---
 
+
+## 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/shivam-kishore-103556329/
+- **Email:** shivamkishore009@gmail.com
+- **LeetCode:** https://leetcode.com/u/Shivwhoo/
+
+---
+
 ## 🧠 Skills (Core Stack)
 
 **Languages**
@@ -62,11 +71,6 @@ To work as a **Software Development Intern / Junior Software Engineer** where I 
 
 ---
 
-## 📫 Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/shivam-kishore-103556329/
-- **Email:** shivamkishore009@gmail.com
-- **LeetCode:** https://leetcode.com/u/Shivwhoo/
 
 ---
 
