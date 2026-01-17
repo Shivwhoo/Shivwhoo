@@ -1,74 +1,55 @@
 # Hi, I’m Shivam Kishore 👋
 
-I’m a **Computer Science undergraduate** focused on becoming a **strong, well-rounded software engineer** with solid fundamentals in **Data Structures, Algorithms, and backend-focused full-stack development**.
+I’m a **Computer Science undergraduate** aiming for **Software Development Internships and Entry-Level Roles**, with a strong focus on **DSA fundamentals and backend-oriented full-stack development**.
 
-I believe in writing **clean, maintainable code**, learning by building real projects, and improving consistently every day.
+I enjoy building real products, writing clean code, and improving a little every day.
 
 ---
 
 ## 🎯 Career Objective
 
-I am seeking **Software Development Internships / Entry-Level Roles** where I can:
-
-- Work on **real-world engineering problems**
-- Build **scalable and reliable systems**
-- Strengthen my understanding of **system design and backend architecture**
-- Learn from experienced engineers while delivering meaningful impact
-
-My long-term goal is to grow into a **high-impact software engineer** capable of owning systems end-to-end.
+To work as a **Software Development Intern / Junior Software Engineer** where I can:
+- Build **scalable, production-ready applications**
+- Strengthen **backend systems & system design fundamentals**
+- Learn from experienced engineers while delivering real impact
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Skills (Core Stack)
 
-### Programming Languages
-- C, C++
-- JavaScript
-- Python
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 
-### Web Development
-**Frontend**
-- React
-- React Router
-- Tailwind CSS
-- Vite
+**Web & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 
-**Backend**
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication (JWT)
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- Vercel, Netlify
-- NPM
-- Notion
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 
 ---
 
-## 📌 What I’m Currently Working On
+## 🚀 Currently Working On
 
-- Full-stack web applications using **React, Node.js, MongoDB**
-- Strengthening **DSA & problem-solving skills** using C++
-- Learning **backend architecture and system design fundamentals**
-- Writing cleaner, more scalable, production-ready code
+- Full-stack projects using **React + Node.js + MongoDB**
+- Improving **DSA & problem-solving** in C++
+- Learning **backend architecture & system design basics**
 
 ---
 
-## 🤝 Open To Opportunities
+## 🤝 Open To
 
-- Software Development Internships
-- Entry-Level Software Engineer Roles
-- Open-source contributions
-- Collaborative learning and engineering projects
+- Software Development Internships  
+- Entry-Level SDE Roles  
+- Open-source contributions  
 
 ---
 
 ## 📈 GitHub Contributions
 
-> Consistency matters more than intensity.
+> Consistency over intensity.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivwhoo&theme=github-compact)
 
@@ -76,8 +57,8 @@ My long-term goal is to grow into a **high-impact software engineer** capable of
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivwhoo&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shivwhoo&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -89,4 +70,4 @@ My long-term goal is to grow into a **high-impact software engineer** capable of
 
 ---
 
-⭐ *Always open to learning, collaboration, and growth.*
+⭐ *Actively seeking internship and full-time opportunities.*
