@@ -2,7 +2,15 @@
 
 ---
 
-## 💫 About Me
+## About Me
+
+I am a **Computer Science undergraduate** focused on building **scalable full-stack applications** using **React, Node.js, and MongoDB**, with a strong foundation in **Data Structures and Algorithms**.
+
+I am seeking **software development internships and entry-level roles**, open to collaborating on meaningful projects and open-source contributions, while continuously learning **backend development and system design fundamentals**.
+
+I value **consistency, clean code, and incremental improvement**.
+
+---
 
 🔭 **Currently working on**  
 Full-stack web development projects with **React, Node.js, and MongoDB**, while strengthening my foundation in **Data Structures and Algorithms**.
