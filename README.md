@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shivam%20Kishore&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Shivam%20Kishore&fontSize=42&fontColor=ffffff&desc=CSE%20Student%20%40%20IIIT%20Dharwad%0ADSA%20%C2%B7%20Competitive%20Programming%20%C2%B7%20MERN%20Stack%20Developer&descSize=18&descAlign=50&animation=fadeIn)
+
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kishore-103556329/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkishore009@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivwhoo/)
+[![Phone](https://img.shields.io/badge/Phone-%2300C853.svg?logo=whatsapp&logoColor=white)](tel:+919334947294)
 
 ---
 
@@ -32,14 +42,7 @@ I genuinely enjoy staying consistent — whether it’s coding, learning somethi
 
 ---
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kishore-103556329/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkishore009@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivwhoo/)
-[![Phone](https://img.shields.io/badge/Phone-%2300C853.svg?logo=whatsapp&logoColor=white)](tel:+919334947294)
-
----
 
 ## 💻 Tech Stack
 
