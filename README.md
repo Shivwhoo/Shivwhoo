@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Shivam%20Kishore&fontSize=42&fontColor=ffffff&desc=CSE%20Student%20%40%20IIIT%20Dharwad%0ADSA%20%C2%B7%20Competitive%20Programming%20%C2%B7%20MERN%20Stack%20Developer&descSize=18&descAlign=50&animation=fadeIn)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=280&section=header&text=Shivam%20Kishore&fontSize=46&fontColor=ffffff&desc&descSize=18&descAlign=50"
+    alt="Header"
+  />
+</p>
+
 
 
 ---
