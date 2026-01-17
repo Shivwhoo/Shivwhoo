@@ -1,64 +1,59 @@
-# Hi, I’m Shivam Kishore 👋
-
-I’m a **Computer Science undergraduate** aiming for **Software Development Internships and Entry-Level Roles**, with a strong focus on **DSA fundamentals and backend-oriented full-stack development**.
-
-I enjoy building real products, writing clean code, and improving a little every day.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivwhoo/Shivwhoo/main/84c4b9d4-7b21-4f1e-95c7-e449a3eb5e77.png" alt="Shivam Kishore Banner" />
+</p>
 
 ---
 
-## 🎯 Career Objective
+## 💫 About Me
 
-To work as a **Software Development Intern / Junior Software Engineer** where I can:
-- Build **scalable, production-ready applications**
-- Strengthen **backend systems & system design fundamentals**
-- Learn from experienced engineers while delivering real impact
+🔭 **Currently working on**  
+Full-stack web development projects with **React, Node.js, and MongoDB**, while strengthening my foundation in **Data Structures and Algorithms**.
 
----
+👯 **Looking to collaborate on**  
+Meaningful web applications, open-source projects, and early-stage product ideas where learning and impact go hand in hand.
 
+🤝 **Looking for help with**  
+Backend architecture, system design fundamentals, and best practices for writing scalable, maintainable code.
 
-## 📫 Contact
+🌱 **Currently learning**  
+Backend development, RESTful APIs, authentication, database management systems, and advanced JavaScript concepts.
 
-- **LinkedIn:** https://www.linkedin.com/in/shivam-kishore-103556329/
-- **Email:** shivamkishore009@gmail.com
-- **LeetCode:** https://leetcode.com/u/Shivwhoo/
+💬 **Ask me about**  
+C++, DSA, web development, Git/GitHub, or balancing academics with practical skill building.
 
----
-
-## 🧠 Skills (Core Stack)
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
-
-**Web & Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+⚡ **Fun fact**  
+I genuinely enjoy staying consistent — whether it’s coding, learning something new, or improving one small thing every day.
 
 ---
 
-## 🚀 Currently Working On
+## 🌐 Socials
 
-- Full-stack projects using **React + Node.js + MongoDB**
-- Improving **DSA & problem-solving** in C++
-- Learning **backend architecture & system design basics**
-
----
-
-## 🤝 Open To
-
-- Software Development Internships  
-- Entry-Level SDE Roles  
-- Open-source contributions  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kishore-103556329/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkishore009@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivwhoo/)
+[![Phone](https://img.shields.io/badge/Phone-%2300C853.svg?logo=whatsapp&logoColor=white)](tel:+919334947294)
 
 ---
 
-## 📈 GitHub Contributions
+## 💻 Tech Stack
 
-> Consistency over intensity.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivwhoo&theme=github-compact)
 
@@ -66,12 +61,14 @@ To work as a **Software Development Intern / Junior Software Engineer** where I 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shivwhoo&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Shivwhoo&theme=dark&hide_border=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shivwhoo&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivwhoo&theme=dark&hide_border=false&layout=compact)
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=Shivwhoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-⭐ *Actively seeking internship and full-time opportunities.*
+<!-- Clean, recruiter-focused README -->
